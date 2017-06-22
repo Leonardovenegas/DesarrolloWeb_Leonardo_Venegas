@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg width="160" height="120" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000000" id="svg_3" height="27" width="77.999999" y="68" x="82" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff0000"/>
+  <rect id="svg_5" height="27" width="79" y="22.5" x="81.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#ff0000"/>
+  <rect id="svg_6" height="27" width="79" y="46.5" x="81.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#ffffff"/>
+  <text id="svg_1" stroke="#000000" transform="rotate(-0.01065769698470831 121.0145721434692,62.99999618528945) matrix(1.7805073456148648,0,0,1,-89.84987430529532,0) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="71.312035" x="118.104363" stroke-width="0" fill="#000000">L-V</text>
+ </g>
+</svg>
